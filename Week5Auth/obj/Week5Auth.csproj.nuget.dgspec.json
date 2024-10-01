@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Lambton College\\Third Sem\\CSD 3354 6 [B125] Web Applications Using C#.NET\\F24\\CSD_3354_6\\Week5Auth\\Week5Auth\\Week5Auth.csproj": {}
+    "D:\\Personal Projects\\C#\\User-Authorization\\Week5Auth\\Week5Auth.csproj": {}
   },
   "projects": {
-    "D:\\Lambton College\\Third Sem\\CSD 3354 6 [B125] Web Applications Using C#.NET\\F24\\CSD_3354_6\\Week5Auth\\Week5Auth\\Week5Auth.csproj": {
+    "D:\\Personal Projects\\C#\\User-Authorization\\Week5Auth\\Week5Auth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Lambton College\\Third Sem\\CSD 3354 6 [B125] Web Applications Using C#.NET\\F24\\CSD_3354_6\\Week5Auth\\Week5Auth\\Week5Auth.csproj",
+        "projectUniqueName": "D:\\Personal Projects\\C#\\User-Authorization\\Week5Auth\\Week5Auth.csproj",
         "projectName": "Week5Auth",
-        "projectPath": "D:\\Lambton College\\Third Sem\\CSD 3354 6 [B125] Web Applications Using C#.NET\\F24\\CSD_3354_6\\Week5Auth\\Week5Auth\\Week5Auth.csproj",
+        "projectPath": "D:\\Personal Projects\\C#\\User-Authorization\\Week5Auth\\Week5Auth.csproj",
         "packagesPath": "C:\\Users\\Utsav\\.nuget\\packages\\",
-        "outputPath": "D:\\Lambton College\\Third Sem\\CSD 3354 6 [B125] Web Applications Using C#.NET\\F24\\CSD_3354_6\\Week5Auth\\Week5Auth\\obj\\",
+        "outputPath": "D:\\Personal Projects\\C#\\User-Authorization\\Week5Auth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Utsav\\AppData\\Roaming\\NuGet\\NuGet.Config",

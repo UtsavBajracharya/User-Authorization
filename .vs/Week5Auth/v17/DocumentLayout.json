@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Personal Projects\\C#\\User-Authorization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B11B18F-52E8-474A-90DF-9A526748E9C3}|Week5Auth\\Week5Auth.csproj|d:\\personal projects\\c#\\user-authorization\\week5auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B11B18F-52E8-474A-90DF-9A526748E9C3}|Week5Auth\\Week5Auth.csproj|solutionrelative:week5auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B11B18F-52E8-474A-90DF-9A526748E9C3}|Week5Auth\\Week5Auth.csproj|d:\\personal projects\\c#\\user-authorization\\week5auth\\models\\explore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B11B18F-52E8-474A-90DF-9A526748E9C3}|Week5Auth\\Week5Auth.csproj|solutionrelative:week5auth\\models\\explore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Explore.cs",
+              "DocumentMoniker": "D:\\Personal Projects\\C#\\User-Authorization\\Week5Auth\\Models\\Explore.cs",
+              "RelativeDocumentMoniker": "Week5Auth\\Models\\Explore.cs",
+              "ToolTip": "D:\\Personal Projects\\C#\\User-Authorization\\Week5Auth\\Models\\Explore.cs",
+              "RelativeToolTip": "Week5Auth\\Models\\Explore.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:21:03.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal Projects\\C#\\User-Authorization\\Week5Auth\\Program.cs",
+              "RelativeDocumentMoniker": "Week5Auth\\Program.cs",
+              "ToolTip": "D:\\Personal Projects\\C#\\User-Authorization\\Week5Auth\\Program.cs",
+              "RelativeToolTip": "Week5Auth\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:20:31.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

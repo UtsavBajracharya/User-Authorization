@@ -17,16 +17,12 @@ namespace Week5Auth
                 options.UseSqlServer(connectionString));
             builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
-            builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = false)
-
-
-
             builder.Services.AddDefaultIdentity<IdentityUser>(options => {
 
 
                 //User settings
                 options.User.RequireUniqueEmail = true; // Require unique email
-                options.User.AllowedUserNameCharacters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ-.@#$";
+                options.User.AllowedUserNameCharacters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ-_.@#$+";
 
                 //Password settings
                 options.Password.RequireDigit = true; // Require at least one digit
@@ -43,7 +39,6 @@ namespace Week5Auth
                 //SignIn settings
                 options.SignIn.RequireConfirmedAccount = false;
             })
-
 
                 .AddRoles<IdentityRole>()
                 .AddEntityFrameworkStores<ApplicationDbContext>();
